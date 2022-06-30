@@ -1,0 +1,4 @@
+digraph chain_visualization {
+	1 [label="index: 0" shape=rectangle]
+	rankdir=LR
+}
